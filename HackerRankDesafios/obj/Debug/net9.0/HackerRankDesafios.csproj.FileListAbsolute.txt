@@ -1,0 +1,28 @@
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\bin\Debug\net9.0\HackerRankDesafios.exe
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\bin\Debug\net9.0\HackerRankDesafios.deps.json
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\bin\Debug\net9.0\HackerRankDesafios.runtimeconfig.json
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\bin\Debug\net9.0\HackerRankDesafios.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\bin\Debug\net9.0\HackerRankDesafios.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\obj\Debug\net9.0\HackerRankDesafios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\obj\Debug\net9.0\HackerRankDesafios.AssemblyInfoInputs.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\obj\Debug\net9.0\HackerRankDesafios.AssemblyInfo.cs
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\obj\Debug\net9.0\HackerRankDesafios.csproj.CoreCompileInputs.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\obj\Debug\net9.0\HackerRankDesafios.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\obj\Debug\net9.0\refint\HackerRankDesafios.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\obj\Debug\net9.0\HackerRankDesafios.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\obj\Debug\net9.0\HackerRankDesafios.genruntimeconfig.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\obj\Debug\net9.0\ref\HackerRankDesafios.dll
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\bin\Debug\net9.0\HackerRankDesafios.exe
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\bin\Debug\net9.0\HackerRankDesafios.deps.json
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\bin\Debug\net9.0\HackerRankDesafios.runtimeconfig.json
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\bin\Debug\net9.0\HackerRankDesafios.dll
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\bin\Debug\net9.0\HackerRankDesafios.pdb
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\obj\Debug\net9.0\HackerRankDesafios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\obj\Debug\net9.0\HackerRankDesafios.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\obj\Debug\net9.0\HackerRankDesafios.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\obj\Debug\net9.0\HackerRankDesafios.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\obj\Debug\net9.0\HackerRankDesafios.dll
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\obj\Debug\net9.0\refint\HackerRankDesafios.dll
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\obj\Debug\net9.0\HackerRankDesafios.pdb
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\obj\Debug\net9.0\HackerRankDesafios.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRankDesafios\obj\Debug\net9.0\ref\HackerRankDesafios.dll

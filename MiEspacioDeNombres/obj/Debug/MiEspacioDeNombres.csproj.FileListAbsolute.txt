@@ -1,0 +1,12 @@
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\MiEspacioDeNombres\bin\Debug\MiEspacioDeNombres.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\MiEspacioDeNombres\bin\Debug\MiEspacioDeNombres.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\MiEspacioDeNombres\obj\Debug\MiEspacioDeNombres.csproj.AssemblyReference.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\MiEspacioDeNombres\obj\Debug\MiEspacioDeNombres.csproj.CoreCompileInputs.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\MiEspacioDeNombres\obj\Debug\MiEspacioDeNombres.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\MiEspacioDeNombres\obj\Debug\MiEspacioDeNombres.pdb
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\MiEspacioDeNombres\bin\Debug\MiEspacioDeNombres.dll
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\MiEspacioDeNombres\bin\Debug\MiEspacioDeNombres.pdb
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\MiEspacioDeNombres\obj\Debug\MiEspacioDeNombres.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\MiEspacioDeNombres\obj\Debug\MiEspacioDeNombres.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\MiEspacioDeNombres\obj\Debug\MiEspacioDeNombres.dll
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\MiEspacioDeNombres\obj\Debug\MiEspacioDeNombres.pdb

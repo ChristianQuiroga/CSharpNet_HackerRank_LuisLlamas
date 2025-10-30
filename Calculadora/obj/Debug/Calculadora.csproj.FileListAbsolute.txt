@@ -1,0 +1,12 @@
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\Calculadora\bin\Debug\Calculadora.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\Calculadora\bin\Debug\Calculadora.dll
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\Calculadora\obj\Debug\Calculadora.pdb

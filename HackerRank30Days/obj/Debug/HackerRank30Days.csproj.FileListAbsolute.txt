@@ -1,0 +1,16 @@
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRank30Days\obj\Debug\HackerRank30Days.csproj.AssemblyReference.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRank30Days\obj\Debug\HackerRank30Days.csproj.CoreCompileInputs.cache
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRank30Days\bin\Debug\HackerRank30Days.exe.config
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRank30Days\bin\Debug\HackerRank30Days.exe
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRank30Days\bin\Debug\HackerRank30Days.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRank30Days\obj\Debug\HackerRank30Days.exe
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRank30Days\obj\Debug\HackerRank30Days.pdb
+C:\Users\christian.quiroga\OneDrive - WiseTech Global Pty Ltd\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRank30Days\obj\Debug\HackerRank30Days.exe.config
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRank30Days\bin\Debug\HackerRank30Days.exe.config
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRank30Days\bin\Debug\HackerRank30Days.exe
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRank30Days\bin\Debug\HackerRank30Days.pdb
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRank30Days\obj\Debug\HackerRank30Days.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRank30Days\obj\Debug\HackerRank30Days.exe.config
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRank30Days\obj\Debug\HackerRank30Days.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRank30Days\obj\Debug\HackerRank30Days.exe
+C:\Users\chris\OneDrive\Documents\CURSOS CODERHOUSE\C#yNet LuisLlamas\HackerRank30Days\obj\Debug\HackerRank30Days.pdb
